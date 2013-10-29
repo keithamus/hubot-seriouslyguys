@@ -1,0 +1,23 @@
+{
+  "name": "hubot-seriouslyguys",
+  "version": "1.0.0",
+  "description": "A hubot script for showing a 'Srsly Guise' gif when someone says 'Seriously Guys' or 'Srsly Guise'",
+  "main": "seriouslyguys.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/keithamus/hubot-seriouslyguys.git"
+  },
+  "keywords": [
+    "hubot",
+    "seriously guys",
+    "meme"
+  ],
+  "author": "Keith Cirkel <https://github.com/keithamus>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keithamus/hubot-seriouslyguys/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  }
+}
